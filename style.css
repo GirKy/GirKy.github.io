@@ -1,0 +1,17 @@
+.checklist {
+    width: 4px;
+    height: 100%;
+    border-radius: 0.4rem;
+    top: 0%;
+    left: 0rem;
+    opacity: .6;
+    transition: opacity .3s;
+    position: absolute;
+
+}
+
+nav > div > div > div > .fixed-top {
+
+    right: auto;
+    bottom: 0;
+}
